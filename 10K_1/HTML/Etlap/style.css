@@ -2,7 +2,12 @@ body{
     background-color: #EEFF66;
     width: 40vw;
     margin: auto;
+    color: #000066;
+    font-family: Monotype Corsiva;
 }
 .nagycim{
     text-align: center;
+}
+.het{
+    display: flex;
 }
