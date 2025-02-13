@@ -23,3 +23,18 @@ body{
     margin: 5px -2px 5px -2px;
     background-color: red;
 }
+.egynap{
+    display: flex;
+    justify-content: space-around;
+    font-style: italic;
+}
+.egynap img{
+    width: 230px;
+}
+.arak{
+    display: flex;
+    justify-content: space-evenly;
+}
+.arak img{
+    width: 250px;
+}
