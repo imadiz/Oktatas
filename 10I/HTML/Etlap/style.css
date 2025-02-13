@@ -1,0 +1,25 @@
+.alap{
+    width: 60%;
+    margin: auto;
+    color: #000066;
+}
+body{
+    background-color: #EEFF66;
+}
+.hetek{
+    display: flex;
+    justify-content: space-between;
+}
+.hetek p, a{
+    margin: 0;
+    font-style: italic;
+}
+.nagycim{
+    text-align: center;
+    font-style: italic;
+}
+.csik{
+    height: 2px;
+    margin: 5px -2px 5px -2px;
+    background-color: red;
+}
