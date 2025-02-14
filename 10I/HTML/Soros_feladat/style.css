@@ -1,0 +1,47 @@
+body{
+    background-color: lightgray;
+    width: 800px;
+    margin: auto;
+}
+.nev{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-bottom: 0px;
+}
+.cim{
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+.elsoresz{
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+}
+.soroskep{
+    width: 150%;
+    height: 150%;
+    border-radius: 10px 10px;
+    margin: 10px 5px 5px 15px;
+}
+.elsoresz_szoveg{
+    text-indent: 30px;
+    text-align: justify;
+}
+.filanthrope{
+    display: inline;
+    color: blue;
+    font-weight: bold;
+}
+.egyresz{
+    display: flex;
+    background-color: #BBB;
+    border: 1px solid black;
+    border-radius: 10px 10px;
+    padding: 10px
+}
+.egyresz > img{
+    margin-right: 30px;
+}

@@ -1,0 +1,35 @@
+Git
+Repository - A git által kezelt fájlok és mappák egy gyűjteménye
+
+Staging Area - A még nem kezelt fájlok és a repo-hoz hozzáadott fájlok közötti állapot
+
+Commit - A staging-ben összekészített fájlok hozzáadása a repohoz
+
+Local/Remote repo - A használt PC-n/egy felhő szolgáltatónál tárolt repository-k
+
+Git parancsok
+git init - Local repo létrehozása a jelen mappában
+
+git status - A helyi fájlok állapotát listázza ki a repo szempontjából (nem követett, hozzáadott, törölt)
+
+git add <fájlnév/mappanév>/* - A local repo-nak a staging részéhez a fájl/mappa hozzáadása név esetén, '*' esetén mindent ami a mappában(repo) van.
+
+git commmit -m "Üzenet" - A staging részből minden fájl/mappa hozzáadása a repo-hoz, egy üzenettel ami kötelező.
+
+git remote add - Távoli repo hozzáadása (pl. GitHub) ez csak egy mutató URL, fájlátadás nem történik.
+
+git push - A local repo-ban lévő elemek feltöltése a remote repo-ba.
+
+git pull - A remote repo-ból a local repo-nál frissebb fájlok/változtatások letöltése
+
+
+
+
+
+
+
+
+
+
+
+

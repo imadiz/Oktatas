@@ -1,0 +1,11 @@
+/*Csit csat bum*/
+h1{
+    text-align: center;
+    color: navy;
+}
+.container p:nth-of-type(1){
+    text-align: justify;
+}
+h2{
+    text-align: right;
+}

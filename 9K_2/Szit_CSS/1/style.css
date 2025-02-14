@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    margin: 0;
+}
+.container{
+    background-color: gold;
+    margin: 0;
+}
+p{
+    margin: 0;
+}
