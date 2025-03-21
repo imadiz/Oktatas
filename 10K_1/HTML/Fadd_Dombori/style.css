@@ -1,0 +1,39 @@
+body{
+    background-color: #DDFFFF;
+    width: 50%;
+    margin: auto;
+    color: darkgreen;
+}
+.felsocim{
+    text-align: left;
+    font-style: italic;
+}
+.kulso{
+    border: 3px solid black;
+    margin: 0 15% 0 15%;
+    background-color: lightgreen;
+    padding: 5px;
+}
+.belso{
+    border: 1px solid black;
+    background-color: lightgreen;
+}
+.belso h1{
+    text-align: center;
+}
+.sor1{
+    font-size: 3em;
+}
+.sor2{
+    font-size: 2em;
+}
+.alsocim{
+    text-align: right;
+}
+.nagylista li{
+    font-size: 2em;
+    text-decoration: underline;
+}
+.szallas{
+    margin: 0 10% 0 10%;
+}
