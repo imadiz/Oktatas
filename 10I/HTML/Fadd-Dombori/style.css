@@ -1,0 +1,53 @@
+.main{
+    width: 50%;
+    margin: auto;
+}
+body{
+    background-color: #DFF;
+    color: green;
+}
+.kulso{
+    margin: 0 20% 0 20%;
+    padding: 2px;
+    background-color: lightgreen;
+    border: 3px solid gray;
+}
+.belso{
+    border: 1px solid gray;
+}
+.kulso h1{
+    text-align: center;
+}
+.sor1{
+    font-size: 36px;
+    font-weight: bold;
+}
+.sor2{
+    font-size: 28px;
+    font-weight: bold;
+}
+.alsocim{
+    text-align: right;
+}
+.felsocim, .alsocim{
+    font-style: italic;
+}
+.nagylista li{
+    font-size: 32px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.szobak{
+    margin: 3% auto 3% auto;
+    padding: 3%;
+}
+.szoba_arak{
+    margin: auto;
+}
+.szoba_arak th{
+    background-color: #0A0;
+    color: darkgreen;
+}
+.szoba_arak td{
+    background-color: lightgreen;
+}
