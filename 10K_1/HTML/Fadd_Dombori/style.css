@@ -37,3 +37,35 @@ body{
 .szallas{
     margin: 0 10% 0 10%;
 }
+.szobak{
+    margin: auto;
+}
+.szobak th{
+    background-color: limegreen;
+    text-align: center;
+}
+.szobak td{
+    background-color: lightgreen;
+    text-align: center;
+}
+.szobak tr:last-child td{
+    height: 7px;
+    background-color: limegreen;
+}
+.arak{
+    margin: 15px auto;
+    border: 2px solid gray;
+    padding: 1px;
+}
+.arak td{
+    background-color: lightgreen;
+    border: 1px solid gray;
+    padding: 10px 20px;
+}
+.kaja{
+    font-weight: bold;
+}
+.csoport{
+    text-align: right;
+    font-style: italic;
+}
