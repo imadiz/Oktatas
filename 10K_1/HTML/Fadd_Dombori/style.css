@@ -69,3 +69,40 @@ body{
     text-align: right;
     font-style: italic;
 }
+img{
+    width: 150px;
+}
+.lehet{
+    margin: auto 0;
+}
+.lehet li{
+    font-size: 15px;
+    text-decoration: none;
+}
+.rendezo{
+    display: flex;
+}
+hr{
+    border-color: limegreen;
+}
+.megkeres{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+.email{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+.kornyek{
+    text-align: center;
+    font-weight: normal;
+}
+a{
+    display: block;
+    text-align: center;
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+}
